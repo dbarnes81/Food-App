@@ -1,0 +1,1306 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
+  
+   <meta name="Robots" content="index,follow" />  
+  
+  
+  <!-- bpculinary -->
+
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+  <link id="primaryStylesheet" rel="stylesheet" type="text/css" href="/display/common.css?styleId=1851486&amp;RK=1481138237270&amp;CE=75"/>
+  
+  <link id="slideShowStylesheet" rel="stylesheet" type="text/css" href="/universal/styles/squarespace-gallery-slideshow.css?CE=75"/>
+  
+  
+  
+  <!-- Google Web Fonts -->
+  <script type="text/javascript">
+    	WebFontConfig = {"google": {"families": [
+  "Droid Sans:400",
+  "Droid Serif:400italic,400"
+]}};
+  
+   
+    (function() {
+      var wf = document.createElement('script');
+      wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+          '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+      wf.type = 'text/javascript';
+      wf.async = 'true';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(wf, s);
+    })();
+  </script>
+
+  <script type="text/javascript" src="/universal/yui/yahoo-dom-event/yahoo-dom-event.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/connection/connection_core-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/json/json-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/animation/animation-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/selector/selector.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/element/element.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/global.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/lightbox.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/api.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/base64.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/census.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/get/get-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/dragdrop/dragdrop-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/connection/connection-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/element/element-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/yui2-yui3-bridge.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/squarespace-gallery-slideshow.js?CE=75"></script>
+
+
+  <script type="text/javascript">
+  // <![CDATA[
+
+    Squarespace.Constants.SS_AUTHKEY = encodeURIComponent("");
+    Squarespace.Constants.WEBSITE_TITLE =  "Baldwin Park         Culinary Arts Academy"; 
+    
+     Squarespace.Constants.CURRENT_MODULE_ID = "7648701"; 
+    
+    
+    
+    Squarespace.Constants.ADMINISTRATION_UI =  false; 
+    
+    
+    
+    Squarespace.Constants.CORE_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.CORE_V6_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.V5_FRONTSITE = "http://www.squarespace.com";
+    Squarespace.Constants.WEBSITE_ID = "656452";
+
+    
+
+    
+
+    
+
+  // ]]>
+  </script>
+
+      <title>Culinary - Class Photos</title>
+    <meta property="og:title" content="Culinary - Class Photos" /> 
+  
+
+  
+
+  
+
+  <!-- End Heading -->
+
+  
+
+  <script type="text/javascript" src="/universal/scripts/cookie-min.js"></script>
+  <script type="text/javascript" src="/universal/scripts/eu-cookie-policy.js"></script>
+
+</head>
+
+<body  id="modulePage7648701"   >
+
+  <script type="text/javascript">
+  YAHOO.util.Event.onDOMReady(function() {
+    if (document.location.href.indexOf("SSLogoutOk=true") != -1) {
+      new Squarespace.FixedPositionTip("Logout Successful", "You have been successfully logged out.", { xMargin: 15, yMargin: 15, icon: "/universal/images/helptip-info.png", orientation: "upper-right", viewportFixed: true, autoHide: 1800 }).show();
+    }
+  });
+</script>
+
+    
+
+  <script type="text/javascript">
+    YAHOO.util.Event.onDOMReady(function() { new Squarespace.Census.hit(); } );
+  </script>
+
+  <script type="text/javascript">
+    YAHOO.util.Event.addListener(document, "keyup", function (e) { if (!e) { e = event; } if (e.keyCode == 27) { document.location.href = "/display/Login?returnUrl=%2Fphotos%2F"; } });
+  </script>
+
+
+
+
+  
+
+  <div id="canvasWrapper"><div id="canvas">
+  
+  
+
+  <div id="pageHeaderWrapper"><div id="pageHeader">
+
+      <div id="navigationTop"><div id="navigationTop-sectionContent3280323" class="horizontalNavigationBar"><ul class="content-navigation">
+    
+  <li class="module   " id="navigationTop-moduleContentWrapper7648419">
+
+    <div id="navigationTop-moduleContent7648419">
+
+              <a id="navigationTop-moduleLink7648419" class=" " href="/" ><span>Home</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper7648420">
+
+    <div id="navigationTop-moduleContent7648420">
+
+              <a id="navigationTop-moduleLink7648420" class=" " href="/about-us/" ><span>About Us</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper7648665">
+
+    <div id="navigationTop-moduleContent7648665">
+
+              <a id="navigationTop-moduleLink7648665" class=" " href="/class-schedule/" ><span>Class Schedule</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module active-module  " id="navigationTop-moduleContentWrapper7648701">
+
+    <div id="navigationTop-moduleContent7648701">
+
+              <a id="navigationTop-moduleLink7648701" class=" " href="/photos/" ><span>Photos</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper7651510">
+
+    <div id="navigationTop-moduleContent7651510">
+
+              <a id="navigationTop-moduleLink7651510" class=" " href="/contact-us/" ><span>Contact Us</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper8314918">
+
+    <div id="navigationTop-moduleContent8314918">
+
+              <a id="navigationTop-moduleLink8314918" class=" " href="/interest-list/" ><span>&quot;Interest List&quot;</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper14174621">
+
+    <div id="navigationTop-moduleContent14174621">
+
+              <a id="navigationTop-moduleLink14174621" class=" " href="/facebook/" ><span>Facebook</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper14360843">
+
+    <div id="navigationTop-moduleContent14360843">
+
+              <a id="navigationTop-moduleLink14360843" class=" " href="/directions/" ><span>Directions</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19190806">
+
+    <div id="navigationTop-moduleContent19190806">
+
+              <a id="navigationTop-moduleLink19190806" class=" " href="/student-job-info/" ><span>Student Job Info</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19655420">
+
+    <div id="navigationTop-moduleContent19655420">
+
+              <a id="navigationTop-moduleLink19655420" class=" " href="/catering/" ><span>Catering</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  </ul><br class="clearer"/></div></div>
+
+    
+        
+      
+  
+      <div id="bannerAreaWrapper"><div id="bannerArea">
+
+              <div id="siteTitleWrapper">
+          <h1 id="siteTitle"><a href="http://bpculinary.squarespace.com/">Baldwin Park         Culinary Arts Academy</a></h1>
+           <div id="siteSubtitle" class="h1subtitle">2000 West Badillo Street West Covina, Ca. 91790</div> 
+        </div>
+      
+      
+      </div></div>
+    
+    
+    
+
+      <div id="navigationBottom"><div id="navigationBottom-sectionContent3280323" class="horizontalNavigationBar"><ul class="content-navigation">
+    
+  <li class="module   " id="navigationBottom-moduleContentWrapper7648419">
+
+    <div id="navigationBottom-moduleContent7648419">
+
+              <a id="navigationBottom-moduleLink7648419" class=" " href="/" ><span>Home</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper7648420">
+
+    <div id="navigationBottom-moduleContent7648420">
+
+              <a id="navigationBottom-moduleLink7648420" class=" " href="/about-us/" ><span>About Us</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper7648665">
+
+    <div id="navigationBottom-moduleContent7648665">
+
+              <a id="navigationBottom-moduleLink7648665" class=" " href="/class-schedule/" ><span>Class Schedule</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module active-module  " id="navigationBottom-moduleContentWrapper7648701">
+
+    <div id="navigationBottom-moduleContent7648701">
+
+              <a id="navigationBottom-moduleLink7648701" class=" " href="/photos/" ><span>Photos</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper7651510">
+
+    <div id="navigationBottom-moduleContent7651510">
+
+              <a id="navigationBottom-moduleLink7651510" class=" " href="/contact-us/" ><span>Contact Us</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper8314918">
+
+    <div id="navigationBottom-moduleContent8314918">
+
+              <a id="navigationBottom-moduleLink8314918" class=" " href="/interest-list/" ><span>&quot;Interest List&quot;</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper14174621">
+
+    <div id="navigationBottom-moduleContent14174621">
+
+              <a id="navigationBottom-moduleLink14174621" class=" " href="/facebook/" ><span>Facebook</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper14360843">
+
+    <div id="navigationBottom-moduleContent14360843">
+
+              <a id="navigationBottom-moduleLink14360843" class=" " href="/directions/" ><span>Directions</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19190806">
+
+    <div id="navigationBottom-moduleContent19190806">
+
+              <a id="navigationBottom-moduleLink19190806" class=" " href="/student-job-info/" ><span>Student Job Info</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19655420">
+
+    <div id="navigationBottom-moduleContent19655420">
+
+              <a id="navigationBottom-moduleLink19655420" class=" " href="/catering/" ><span>Catering</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  </ul><br class="clearer"/></div></div>
+
+
+  </div></div>
+  
+  
+
+  
+
+  
+  <div id="pageBodyWrapper"><div id="pageBody">
+  
+  <div id="sidebar1Wrapper" class="verticalNavigationBarWrapper"><div class="iw-vnb1"><div class="iw-vnb2"><div class="iw-vnb3"><div class="iw-vnb4"><div id="sidebar1" class="verticalNavigationBar">
+
+  
+
+    <div id="sectionContent3280323" class="sectionWrapper promotedContainer "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Top</div> 
+
+      
+        
+          <ul class="content-navigation">
+  <li class="module   " id="moduleContentWrapper7648419">
+
+    <div id="moduleContent7648419">
+
+              <a id="moduleLink7648419" class=" " href="/" ><span>Home</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper7648420">
+
+    <div id="moduleContent7648420">
+
+              <a id="moduleLink7648420" class=" " href="/about-us/" ><span>About Us</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper7648665">
+
+    <div id="moduleContent7648665">
+
+              <a id="moduleLink7648665" class=" " href="/class-schedule/" ><span>Class Schedule</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module active-module  " id="moduleContentWrapper7648701">
+
+    <div id="moduleContent7648701">
+
+              <a id="moduleLink7648701" class=" " href="/photos/" ><span>Photos</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper7651510">
+
+    <div id="moduleContent7651510">
+
+              <a id="moduleLink7651510" class=" " href="/contact-us/" ><span>Contact Us</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper8314918">
+
+    <div id="moduleContent8314918">
+
+              <a id="moduleLink8314918" class=" " href="/interest-list/" ><span>&quot;Interest List&quot;</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper14174621">
+
+    <div id="moduleContent14174621">
+
+              <a id="moduleLink14174621" class=" " href="/facebook/" ><span>Facebook</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper14360843">
+
+    <div id="moduleContent14360843">
+
+              <a id="moduleLink14360843" class=" " href="/directions/" ><span>Directions</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper19190806">
+
+    <div id="moduleContent19190806">
+
+              <a id="moduleLink19190806" class=" " href="/student-job-info/" ><span>Student Job Info</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper19655420">
+
+    <div id="moduleContent19655420">
+
+              <a id="moduleLink19655420" class=" " href="/catering/" ><span>Catering</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent8175142" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Open House</div> 
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper19645235" class="widget-wrapper  widget-type-page"><div id="moduleContent19645235">
+
+
+
+
+
+  <p>&nbsp;</p>
+  <div style="width: 195px; text-align: center;">
+  <div style="width: 195px; text-align: center;"><br />
+  <div style="font-family: Helvetica, Arial; font-size: 12px; padding: 10px 0 5px; margin: 2px; width: 195px; text-align: center;"><div style="width:195px; text-align:center;" ><iframe  src="https://www.eventbrite.com/calendar-widget?eid=61238730692" frameborder="0" height="628" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:195px; text-align:center;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/">Powered by Eventbrite</a></div></div></div>
+  </div>
+  <br />
+  <div style="font-family: Helvetica, Arial; font-size: 12px; padding: 10px 0 5px; margin: 2px; width: 195px; text-align: center;">
+  <div style="width: 195px; text-align: center;">
+  <div style="width: 195px; text-align: center;"><br />
+  <div style="font-family: Helvetica, Arial; font-size: 12px; padding: 10px 0 5px; margin: 2px; width: 195px; text-align: center;"></div>
+  </div>
+  <br />
+  <div style="font-family: Helvetica, Arial; font-size: 12px; padding: 10px 0 5px; margin: 2px; width: 195px; text-align: center;"></div>
+  </div>
+  </div>
+  </div>
+  <p>&nbsp;</p>
+  <div style="width: 195px; text-align: center;">
+  <div style="width: 195px; text-align: center;">
+  <div style="width: 195px; text-align: center;">
+  <div style="width: 195px; text-align: center;">
+  <div style="font-family: Helvetica, Arial; font-size: 10px; padding: 5px 0 5px; margin: 2px; width: 195px; text-align: center;">
+  <div style="width: 195px; text-align: center;">
+  <div style="width: 195px; text-align: center;">
+  <div style="width: 195px; text-align: center;">
+  <div style="font-family: Helvetica, Arial; font-size: 12px; padding: 10px 0 5px; margin: 2px; width: 195px; text-align: center;">
+  <div style="width: 195px; text-align: center;">
+  <div style="width: 195px; text-align: center;">
+  <div style="width: 195px; text-align: center;">
+  <div style="width: 195px; text-align: center;">
+  <div style="width: 195px; text-align: center;"><br />
+  <div style="font-family: Helvetica, Arial; font-size: 12px; padding: 10px 0 5px; margin: 2px; width: 195px; text-align: center;"></div>
+  </div>
+  <br />
+  <div style="font-family: Helvetica, Arial; font-size: 12px; padding: 10px 0 5px; margin: 2px; width: 195px; text-align: center;"></div>
+  </div>
+  <div style="font-family: Helvetica, Arial; font-size: 12px; padding: 10px 0 5px; margin: 2px; width: 195px; text-align: center;"></div>
+  </div>
+  </div>
+  <div style="font-family: Helvetica, Arial; font-size: 12px; padding: 10px 0 5px; margin: 2px; width: 195px; text-align: center;"></div>
+  </div>
+  </div>
+  </div>
+  <br />
+  <div style="font-family: Helvetica, Arial; font-size: 12px; padding: 10px 0 5px; margin: 2px; width: 195px; text-align: center;">
+  <div style="width: 195px; text-align: center;"><br />
+  <div style="font-family: Helvetica, Arial; font-size: 12px; padding: 10px 0 5px; margin: 2px; width: 195px; text-align: center;">
+  <div style="width: 195px; text-align: center;"></div>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  <div style="font-family: Helvetica, Arial; font-size: 10px; padding: 5px 0 5px; margin: 2px; width: 195px; text-align: center;">
+  <div style="width: 195px; text-align: center;"><br />
+  <div style="font-family: Helvetica, Arial; font-size: 10px; padding: 5px 0 5px; margin: 2px; width: 195px; text-align: center;">
+  <div style="width: 195px; text-align: center;"><br />
+  <div style="font-family: Helvetica, Arial; font-size: 10px; padding: 5px 0 5px; margin: 2px; width: 195px; text-align: center;"></div>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  <br />
+  <div style="font-family: Helvetica, Arial; font-size: 10px; padding: 5px 0 5px; margin: 2px; width: 195px; text-align: center;">
+  <div style="width: 195px; text-align: center;"><br />
+  <div style="font-family: Helvetica, Arial; font-size: 10px; padding: 5px 0 5px; margin: 2px; width: 195px; text-align: center;"></div>
+  </div>
+  </div>
+  </div>
+  </div>
+</div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+  
+
+</div></div></div></div></div></div>
+  <div id="sidebar2Wrapper" class="verticalNavigationBarWrapper"><div class="iw-vnb1"><div class="iw-vnb2"><div class="iw-vnb3"><div class="iw-vnb4"><div id="sidebar2" class="verticalNavigationBar">
+
+  
+
+  
+
+</div></div></div></div></div></div>
+  
+  
+
+  <div id="contentWrapper"><div id="content">
+    
+          
+    
+
+
+  <!-- template edition 2 -->
+
+
+  
+
+
+  <script type="text/javascript">
+
+    SSLightbox.thumbnailLoading  = 2;
+    SSLightbox.thumbnailHover = 3;
+
+  </script>
+
+
+      <h2 class="document-title">Class Photos</h2>
+  
+
+  
+
+      <div class="body">
+  
+
+    
+      <ul class="picture-gallery-list">
+
+        <script type="text/javascript">
+           SSLightbox.presentThumbnail("thumbnails", "gallery1168309", "1168309", "/photos/student-action-shots/", "/picture/?pictureId=21314259&amp;asThumbnail=true", "/picture/?pictureId=21314259&amp;asThumbnail=true", null, null, null, null, null);  SSLightbox.presentThumbnail("thumbnails", "gallery1168306", "1168306", "/photos/culinary-foundations-i-2016-2017/", "/picture/?pictureId=21314218&amp;asThumbnail=true", "/picture/?pictureId=21314218&amp;asThumbnail=true", null, null, null, null, null);  SSLightbox.presentThumbnail("thumbnails", "gallery1147728", "1147728", "/photos/introgarde-manger-2014-2015/", "/picture/?pictureId=20699544&amp;asThumbnail=true", "/picture/?pictureId=20699544&amp;asThumbnail=true", null, null, null, null, null);  SSLightbox.presentThumbnail("thumbnails", "gallery1087142", "1087142", "/photos/catered-events/", "/picture/?pictureId=18952229&amp;asThumbnail=true", "/picture/?pictureId=18952229&amp;asThumbnail=true", null, null, null, null, null);  SSLightbox.presentThumbnail("thumbnails", "gallery1085975", "1085975", "/photos/2012-2013/", "/picture/?pictureId=18952118&amp;asThumbnail=true", "/picture/?pictureId=18952118&amp;asThumbnail=true", null, null, null, null, null);  SSLightbox.presentThumbnail("thumbnails", "gallery935753", "935753", "/photos/graduation-reception-2012/", "/picture/?pictureId=15153567&amp;asThumbnail=true", "/picture/?pictureId=15153567&amp;asThumbnail=true", null, null, null, null, null);  SSLightbox.presentThumbnail("thumbnails", "gallery935731", "935731", "/photos/advanced-culinary-january-2012-may-2012/", "/picture/?pictureId=15153500&amp;asThumbnail=true", "/picture/?pictureId=15153500&amp;asThumbnail=true", null, null, null, null, null);  SSLightbox.presentThumbnail("thumbnails", "gallery699517", "699517", "/photos/july-to-august-2011/", "/picture/?pictureId=10992365&amp;asThumbnail=true", "/picture/?pictureId=10992365&amp;asThumbnail=true", null, null, null, null, null);  SSLightbox.presentThumbnail("thumbnails", "gallery644844", "644844", "/photos/april-july-2011/", "/picture/?pictureId=9961581&amp;asThumbnail=true", "/picture/?pictureId=9961581&amp;asThumbnail=true", null, null, null, null, null);  SSLightbox.presentThumbnail("thumbnails", "gallery605628", "605628", "/photos/garde-manger/", "/picture/?pictureId=9258285&amp;asThumbnail=true", "/picture/?pictureId=9258285&amp;asThumbnail=true", null, null, null, null, null);  SSLightbox.presentThumbnail("thumbnails", "gallery604696", "604696", "/photos/introduction-advanced-march-april-2011/", "/picture/?pictureId=9258659&amp;asThumbnail=true", "/picture/?pictureId=9258659&amp;asThumbnail=true", null, null, null, null, null);  SSLightbox.presentThumbnail("thumbnails", "gallery604690", "604690", "/photos/chilling-grilling/", "/picture/?pictureId=9258164&amp;asThumbnail=true", "/picture/?pictureId=9258164&amp;asThumbnail=true", null, null, null, null, null);  SSLightbox.presentThumbnail("thumbnails", "gallery570657", "570657", "/photos/introduction-advanced-culinary-arts/", "/picture/?pictureId=8686340&amp;asThumbnail=true", "/picture/?pictureId=8686340&amp;asThumbnail=true", null, null, null, null, null);  SSLightbox.presentThumbnail("thumbnails", "gallery531856", "531856", "/photos/student-photos-december-2010/", "/picture/?pictureId=8084720&amp;asThumbnail=true", "/picture/?pictureId=8084720&amp;asThumbnail=true", null, null, null, null, null);  SSLightbox.presentThumbnail("thumbnails", "gallery506381", "506381", "/photos/asian-cuisine-photos/", "/picture/?pictureId=8084755&amp;asThumbnail=true", "/picture/?pictureId=8084755&amp;asThumbnail=true", null, null, null, null, null);  SSLightbox.presentThumbnail("thumbnails", "gallery448293", "448293", "/photos/professional-photo-session/", "/picture/?pictureId=6567568&amp;asThumbnail=true", "/picture/?pictureId=6567568&amp;asThumbnail=true", null, null, null, null, null);  SSLightbox.presentThumbnail("thumbnails", "gallery439577", "439577", "/photos/iron-chef-bbq-challenge-irvine-91110/", "/picture/?pictureId=6804427&amp;asThumbnail=true", "/picture/?pictureId=6804427&amp;asThumbnail=true", null, null, null, null, null); 
+        </script>
+
+        
+
+          <li id="gallery1168309">
+
+            <div class="thumbnail-container" style="width:
+            220px;"><span class="thumbnail-wrapper"><a href="/photos/student-action-shots/"><img id="gallery1168309-img" class="thumbnail"
+ title="Student Action Shots!" alt="Student Action Shots!" width="200" src="/universal/images/transparent.png"/></a></span></div>
+
+            <div class="description">
+
+              <h3 class="caption"><a href="/photos/student-action-shots/">Student Action&nbsp;Shots!</a>  <span class="gallery-picture-count">(9)</span> </h3>
+
+              <div class="h3subtitle"><div class="text">
+
+                
+
+                
+
+              </div></div>
+
+              
+
+              
+
+            </div>
+
+            <div class="clearer">&nbsp;</div>
+
+          </li>
+
+        
+
+          <li id="gallery1168306">
+
+            <div class="thumbnail-container" style="width:
+            220px;"><span class="thumbnail-wrapper"><a href="/photos/culinary-foundations-i-2016-2017/"><img id="gallery1168306-img" class="thumbnail"
+ title="Culinary Foundations I 2016 - 2017" alt="Culinary Foundations I 2016 - 2017" width="200" src="/universal/images/transparent.png"/></a></span></div>
+
+            <div class="description">
+
+              <h3 class="caption"><a href="/photos/culinary-foundations-i-2016-2017/">Culinary Foundations I 2016 -&nbsp;2017</a>  <span class="gallery-picture-count">(32)</span> </h3>
+
+              <div class="h3subtitle"><div class="text">
+
+                
+
+                
+
+              </div></div>
+
+              
+
+              
+
+            </div>
+
+            <div class="clearer">&nbsp;</div>
+
+          </li>
+
+        
+
+          <li id="gallery1147728">
+
+            <div class="thumbnail-container" style="width:
+            220px;"><span class="thumbnail-wrapper"><a href="/photos/introgarde-manger-2014-2015/"><img id="gallery1147728-img" class="thumbnail"
+ title="Intro/Garde Manger 2014-2015" alt="Intro/Garde Manger 2014-2015" width="200" src="/universal/images/transparent.png"/></a></span></div>
+
+            <div class="description">
+
+              <h3 class="caption"><a href="/photos/introgarde-manger-2014-2015/">Intro/Garde Manger&nbsp;2014-2015</a>  <span class="gallery-picture-count">(56)</span> </h3>
+
+              <div class="h3subtitle"><div class="text">
+
+                
+
+                
+
+              </div></div>
+
+              
+
+              
+
+            </div>
+
+            <div class="clearer">&nbsp;</div>
+
+          </li>
+
+        
+
+          <li id="gallery1087142">
+
+            <div class="thumbnail-container" style="width:
+            220px;"><span class="thumbnail-wrapper"><a href="/photos/catered-events/"><img id="gallery1087142-img" class="thumbnail"
+ title="Catered Events" alt="Catered Events" width="200" src="/universal/images/transparent.png"/></a></span></div>
+
+            <div class="description">
+
+              <h3 class="caption"><a href="/photos/catered-events/">Catered&nbsp;Events</a>  <span class="gallery-picture-count">(23)</span> </h3>
+
+              <div class="h3subtitle"><div class="text">
+
+                
+
+                
+
+              </div></div>
+
+              
+
+              
+
+            </div>
+
+            <div class="clearer">&nbsp;</div>
+
+          </li>
+
+        
+
+          <li id="gallery1085975">
+
+            <div class="thumbnail-container" style="width:
+            220px;"><span class="thumbnail-wrapper"><a href="/photos/2012-2013/"><img id="gallery1085975-img" class="thumbnail"
+ title="2012-2013" alt="2012-2013" width="200" src="/universal/images/transparent.png"/></a></span></div>
+
+            <div class="description">
+
+              <h3 class="caption"><a href="/photos/2012-2013/">2012-2013</a>  <span class="gallery-picture-count">(13)</span> </h3>
+
+              <div class="h3subtitle"><div class="text">
+
+                
+
+                
+
+              </div></div>
+
+              
+
+              
+
+            </div>
+
+            <div class="clearer">&nbsp;</div>
+
+          </li>
+
+        
+
+          <li id="gallery935753">
+
+            <div class="thumbnail-container" style="width:
+            220px;"><span class="thumbnail-wrapper"><a href="/photos/graduation-reception-2012/"><img id="gallery935753-img" class="thumbnail"
+ title="Graduation Reception 2012" alt="Graduation Reception 2012" width="200" src="/universal/images/transparent.png"/></a></span></div>
+
+            <div class="description">
+
+              <h3 class="caption"><a href="/photos/graduation-reception-2012/">Graduation Reception&nbsp;2012</a>  <span class="gallery-picture-count">(7)</span> </h3>
+
+              <div class="h3subtitle"><div class="text">
+
+                
+
+                Photos of our annual graduation reception catered by our Foodservice and Hospitality-Culinary Arts students and staff.
+
+              </div></div>
+
+              
+
+              
+
+            </div>
+
+            <div class="clearer">&nbsp;</div>
+
+          </li>
+
+        
+
+          <li id="gallery935731">
+
+            <div class="thumbnail-container" style="width:
+            220px;"><span class="thumbnail-wrapper"><a href="/photos/advanced-culinary-january-2012-may-2012/"><img id="gallery935731-img" class="thumbnail"
+ title="Advanced Culinary January 2012 - May 2012" alt="Advanced Culinary January 2012 - May 2012" width="200" src="/universal/images/transparent.png"/></a></span></div>
+
+            <div class="description">
+
+              <h3 class="caption"><a href="/photos/advanced-culinary-january-2012-may-2012/">Advanced Culinary January 2012 - May&nbsp;2012</a>  <span class="gallery-picture-count">(1)</span> </h3>
+
+              <div class="h3subtitle"><div class="text">
+
+                
+
+                Photos in this gallery are of student plate-ups from our Advanced Culinary Arts Classes.
+
+              </div></div>
+
+              
+
+              
+
+            </div>
+
+            <div class="clearer">&nbsp;</div>
+
+          </li>
+
+        
+
+          <li id="gallery699517">
+
+            <div class="thumbnail-container" style="width:
+            220px;"><span class="thumbnail-wrapper"><a href="/photos/july-to-august-2011/"><img id="gallery699517-img" class="thumbnail"
+ title="July to August 2011" alt="July to August 2011" width="200" src="/universal/images/transparent.png"/></a></span></div>
+
+            <div class="description">
+
+              <h3 class="caption"><a href="/photos/july-to-august-2011/">July to August&nbsp;2011</a>  <span class="gallery-picture-count">(171)</span> </h3>
+
+              <div class="h3subtitle"><div class="text">
+
+                
+
+                Introduction & Advanced Students
+
+              </div></div>
+
+              
+
+              
+
+            </div>
+
+            <div class="clearer">&nbsp;</div>
+
+          </li>
+
+        
+
+          <li id="gallery644844">
+
+            <div class="thumbnail-container" style="width:
+            220px;"><span class="thumbnail-wrapper"><a href="/photos/april-july-2011/"><img id="gallery644844-img" class="thumbnail"
+ title="April - July 2011" alt="April - July 2011" width="200" src="/universal/images/transparent.png"/></a></span></div>
+
+            <div class="description">
+
+              <h3 class="caption"><a href="/photos/april-july-2011/">April - July&nbsp;2011</a>  <span class="gallery-picture-count">(240)</span> </h3>
+
+              <div class="h3subtitle"><div class="text">
+
+                
+
+                Introduction & Advanced Culinary Arts
+
+              </div></div>
+
+              
+
+              
+
+            </div>
+
+            <div class="clearer">&nbsp;</div>
+
+          </li>
+
+        
+
+          <li id="gallery605628">
+
+            <div class="thumbnail-container" style="width:
+            220px;"><span class="thumbnail-wrapper"><a href="/photos/garde-manger/"><img id="gallery605628-img" class="thumbnail"
+ title="Garde Manger" alt="Garde Manger" width="200" src="/universal/images/transparent.png"/></a></span></div>
+
+            <div class="description">
+
+              <h3 class="caption"><a href="/photos/garde-manger/">Garde&nbsp;Manger</a>  <span class="gallery-picture-count">(55)</span> </h3>
+
+              <div class="h3subtitle"><div class="text">
+
+                
+
+                
+
+              </div></div>
+
+              
+
+              
+
+            </div>
+
+            <div class="clearer">&nbsp;</div>
+
+          </li>
+
+        
+
+          <li id="gallery604696">
+
+            <div class="thumbnail-container" style="width:
+            220px;"><span class="thumbnail-wrapper"><a href="/photos/introduction-advanced-march-april-2011/"><img id="gallery604696-img" class="thumbnail"
+ title="Introduction &amp; Advanced March- April 2011" alt="Introduction &amp; Advanced March- April 2011" width="200" src="/universal/images/transparent.png"/></a></span></div>
+
+            <div class="description">
+
+              <h3 class="caption"><a href="/photos/introduction-advanced-march-april-2011/">Introduction & Advanced March- April&nbsp;2011</a>  <span class="gallery-picture-count">(168)</span> </h3>
+
+              <div class="h3subtitle"><div class="text">
+
+                
+
+                
+
+              </div></div>
+
+              
+
+              
+
+            </div>
+
+            <div class="clearer">&nbsp;</div>
+
+          </li>
+
+        
+
+          <li id="gallery604690">
+
+            <div class="thumbnail-container" style="width:
+            220px;"><span class="thumbnail-wrapper"><a href="/photos/chilling-grilling/"><img id="gallery604690-img" class="thumbnail"
+ title="Chilling &amp; Grilling" alt="Chilling &amp; Grilling" width="200" src="/universal/images/transparent.png"/></a></span></div>
+
+            <div class="description">
+
+              <h3 class="caption"><a href="/photos/chilling-grilling/">Chilling &&nbsp;Grilling</a>  <span class="gallery-picture-count">(35)</span> </h3>
+
+              <div class="h3subtitle"><div class="text">
+
+                
+
+                Chilling & Grilling is for those that love to bbq. In this class we bbq various cuts of meat,seafood,poultry, fruits,and vegetables. We also make many types of salads, cold drinks, home made ice cream,and other cold items.
+
+              </div></div>
+
+              
+
+              
+
+            </div>
+
+            <div class="clearer">&nbsp;</div>
+
+          </li>
+
+        
+
+          <li id="gallery570657">
+
+            <div class="thumbnail-container" style="width:
+            220px;"><span class="thumbnail-wrapper"><a href="/photos/introduction-advanced-culinary-arts/"><img id="gallery570657-img" class="thumbnail"
+ title="Introduction &amp; Advanced Culinary Arts" alt="Introduction &amp; Advanced Culinary Arts" width="200" src="/universal/images/transparent.png"/></a></span></div>
+
+            <div class="description">
+
+              <h3 class="caption"><a href="/photos/introduction-advanced-culinary-arts/">Introduction & Advanced Culinary&nbsp;Arts</a>  <span class="gallery-picture-count">(140)</span> </h3>
+
+              <div class="h3subtitle"><div class="text">
+
+                
+
+                These pictures are from Jan- Feb 2011
+
+              </div></div>
+
+              
+
+              
+
+            </div>
+
+            <div class="clearer">&nbsp;</div>
+
+          </li>
+
+        
+
+          <li id="gallery531856">
+
+            <div class="thumbnail-container" style="width:
+            220px;"><span class="thumbnail-wrapper"><a href="/photos/student-photos-december-2010/"><img id="gallery531856-img" class="thumbnail"
+ title="Student Photos December 2010" alt="Student Photos December 2010" width="200" src="/universal/images/transparent.png"/></a></span></div>
+
+            <div class="description">
+
+              <h3 class="caption"><a href="/photos/student-photos-december-2010/">Student Photos December&nbsp;2010</a>  <span class="gallery-picture-count">(167)</span> </h3>
+
+              <div class="h3subtitle"><div class="text">
+
+                
+
+                These pictures are of the Introduction to Culinary Arts as well as the Advanced Culinary Arts.
+
+              </div></div>
+
+              
+
+              
+
+            </div>
+
+            <div class="clearer">&nbsp;</div>
+
+          </li>
+
+        
+
+          <li id="gallery506381">
+
+            <div class="thumbnail-container" style="width:
+            220px;"><span class="thumbnail-wrapper"><a href="/photos/asian-cuisine-photos/"><img id="gallery506381-img" class="thumbnail"
+ title="Asian Cuisine Photos" alt="Asian Cuisine Photos" width="200" src="/universal/images/transparent.png"/></a></span></div>
+
+            <div class="description">
+
+              <h3 class="caption"><a href="/photos/asian-cuisine-photos/">Asian Cuisine&nbsp;Photos</a>  <span class="gallery-picture-count">(110)</span> </h3>
+
+              <div class="h3subtitle"><div class="text">
+
+                
+
+                Photos in this section are courtesy of our Asian Cuisine Class. Students learn to prepare foods from different regions of Asia.
+
+              </div></div>
+
+              
+
+              
+
+            </div>
+
+            <div class="clearer">&nbsp;</div>
+
+          </li>
+
+        
+
+          <li id="gallery448293">
+
+            <div class="thumbnail-container" style="width:
+            220px;"><span class="thumbnail-wrapper"><a href="/photos/professional-photo-session/"><img id="gallery448293-img" class="thumbnail"
+ title="Professional Photo Session" alt="Professional Photo Session" width="200" src="/universal/images/transparent.png"/></a></span></div>
+
+            <div class="description">
+
+              <h3 class="caption"><a href="/photos/professional-photo-session/">Professional Photo&nbsp;Session</a>  <span class="gallery-picture-count">(21)</span> </h3>
+
+              <div class="h3subtitle"><div class="text">
+
+                
+
+                
+
+              </div></div>
+
+              
+
+              
+
+            </div>
+
+            <div class="clearer">&nbsp;</div>
+
+          </li>
+
+        
+
+          <li id="gallery439577">
+
+            <div class="thumbnail-container" style="width:
+            220px;"><span class="thumbnail-wrapper"><a href="/photos/iron-chef-bbq-challenge-irvine-91110/"><img id="gallery439577-img" class="thumbnail"
+ title="&quot;Iron Chef&quot; BBQ Challenge Irvine 9/11/10" alt="&quot;Iron Chef&quot; BBQ Challenge Irvine 9/11/10" width="200" src="/universal/images/transparent.png"/></a></span></div>
+
+            <div class="description">
+
+              <h3 class="caption"><a href="/photos/iron-chef-bbq-challenge-irvine-91110/">"Iron Chef" BBQ Challenge Irvine&nbsp;9/11/10</a>  <span class="gallery-picture-count">(8)</span> </h3>
+
+              <div class="h3subtitle"><div class="text">
+
+                
+
+                Students Daniel Fernandez and Paula Krebs assisting Chefs Jamie Gwen and Greg Daniels
+
+              </div></div>
+
+              
+
+              
+
+            </div>
+
+            <div class="clearer">&nbsp;</div>
+
+          </li>
+
+        
+
+      </ul>
+
+      <div class="clearer">&nbsp;</div>
+
+    
+
+      </div>
+  
+
+  
+
+
+</div></div> <!-- Content -->
+  
+    
+  
+    </div></div> <!-- Page Body -->
+
+    
+    
+    <div id="pageFooterWrapper"><div id="pageFooter">
+  
+              Baldwin Park Culinary Arts Academy
+      
+  
+      
+  
+    </div></div>
+  
+  </div></div> <!-- Canvas -->
+  
+   
+
+
+  <div class="clearer" id="bodyClearer"></div>
+
+  
+
+
+
+</body>
+</html>

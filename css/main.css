@@ -1,0 +1,630 @@
+html,body{
+    width:100%;
+    height: 100%;
+    margin:0;
+    padding: 0;
+    overflow-x: hidden;
+    font-family: 'Roboto', sans-serif; 
+}
+
+/*********************** Nav section ***************************/
+
+.nav-bar-bg-image{
+    background:url('https://images.unsplash.com/photo-1558030018-d461fe79233e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80');
+    width: 100%;
+    height:100%;
+    overflow-y: hidden;
+}
+
+.container{
+    max-width: 1024px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.logo{
+    text-decoration: none; 
+    color:#fff;
+    font-size: 0.9rem;
+}
+
+.links{
+    position:relative;
+    
+}
+
+.links>li{
+    display: inline-block;
+    color:#fff;
+    font-size: 0.9rem;
+    text-transform: capitalize;
+    padding: 2rem;
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+
+}
+
+.fas{
+    font-size: 0.5rem;
+    padding-left: 0.5rem;
+    color:#fff;
+}
+
+/******************* Title Section *************************/
+
+.title{
+    text-align:right;
+    position: relative;
+    top: 80px;
+    right: 14%; 
+}
+
+.title>h1{
+    margin: 0;
+    line-height:1;
+    text-transform:capitalize;
+    font-size:  4.5rem;
+    font-family: 'Playfair Display', serif;
+}
+
+.title>p{
+    padding-bottom: 21px;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+}
+
+/************************** Bottom Info ************************/
+
+.bottom-info{
+    text-align: right;
+    position: relative;
+    top: 200px;
+    right: 14%;
+}
+
+.bottom-info>p{
+    margin: 0;
+    font-size: 0.9rem;
+    text-transform: capitalize;
+}
+
+.bottom-info, .lg-text{
+    padding-top: 10px;
+    text-transform: uppercase;
+}
+
+.book,.lg-text{
+    color:#fff;
+}
+
+.phone{
+    color:#fff;
+    font-size: 1.3rem;
+    font-family: 'Playfair Display', serif;
+}
+
+
+/************************** Story Info Section ************************/
+
+#story-bg-white{
+    width: 80%;
+    height:500px;
+    margin: 0 auto;
+    padding-top:70px;
+    padding-bottom: 70px;
+    background-color: white;
+}
+
+.first-grid{
+    color:#000;
+    float:left;
+    width: 375px;
+    height: 500px;
+    margin-left: 50px;
+}
+
+.upper-para{
+    font-family: 'Roboto', sans-serif;
+    color: darkgrey;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    letter-spacing: 5px;
+}
+
+.lorem{
+    line-height: 1.7;
+    font-size: 0.8rem;
+    font-family: 'Roboto', sans-serif;
+    color:darkgrey;
+    text-transform: capitalize; 
+}
+
+.first-grid,.md-text{
+    font-size:  2.3rem;
+    font-family: 'Playfair Display', serif;
+    color: #000;
+    text-transform: capitalize;
+    padding-bottom: 20px; 
+}
+
+span{
+    font-size: 0.9rem;
+    font-family: 'Roboto', sans-serif;
+    color:#000;
+    font-weight:bold;
+    padding-bottom: 30px; 
+}
+
+i{
+    color:darkgrey;
+    font-size: 0.9rem;
+}
+
+.reserv{
+    position:relative;
+    top: 25px;
+    border-radius: 5px;
+    padding: 10px 10px;
+    text-transform: uppercase;
+    font-family: 'Playfair Display', serif;
+}
+
+.reserv:hover{
+    cursor: pointer;
+    background-color:#000;
+    color: darkgrey;
+    transition: 0.4s ease-in-out;
+}
+
+.second-grid{
+    float:right;
+    margin-right: 50px;
+}
+
+
+/************************** Special Menu Section ************************/
+
+#menu-grey-bg{
+    width:100%;
+    background-color:lightgray;
+}
+
+.menu-wrap{
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.mini-text{
+    color:darkgray;
+    text-align: center;
+    font-size: 0.8rem;
+    letter-spacing: 9px;
+    text-transform: uppercase;
+}
+
+.delicious-flavour{
+    color:#000;
+    font-size: 2.5rem;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    text-transform: capitalize;
+}
+
+#grid-container{
+    display: flex;
+    align-content: flex-start;
+}
+
+.white-wrap-1,.white-wrap-2,.white-wrap-3{
+    margin: 25px;
+    padding: 30px;
+    width: 30%;
+    background-color: white;
+}
+
+.food-info-1,.food-info-2,.food-info-3{
+    width: 100%;
+}
+
+.dish-1,.dish-2,.dish-3{
+    width: 100%;
+}
+
+.price-1,.price-2,.price-3{
+    color: #000;
+    font-size: 1.9rem;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    margin: 0;
+}
+
+.main-detail-1,.main-detail-2,.main-detail-3{
+    color: #000;
+    font-size: 0.9rem;
+    font-weight: bold;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.sm-detail-1,.sm-detail-2,.sm-detail-3{
+    color: darkgrey;
+    font-size: 0.8rem;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.link{
+    text-align: center;
+    text-decoration: underline;
+    padding-top:25px;
+}
+
+.full-view-link{
+    color:#000;
+    padding-top:35px;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 5px;
+}
+
+
+/************************** Image Quote Section ************************/
+
+
+#cooking-img{
+    width: 100%;
+    text-align: center;
+}
+
+.chef-table{
+    width: 1340px;
+    height: 550px;
+}
+
+.quote-wrap{
+    position: relative;
+    bottom: 401px;
+}
+
+.quote-text{
+    color: #fff;
+    font-size: 3rem;
+    text-transform: capitalize;
+    font-family: 'Playfair Display', serif;
+    margin: 0;
+}
+
+.al-roker{
+    color: #fff;
+    text-transform: capitalize;
+    
+}
+
+/************************** Review Section ************************/
+
+#review-color{
+    height:400px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 248px;
+    background-color: white;
+}
+
+.review-container{
+    width: 80%;
+    margin:0 auto;
+    display: inline-block;
+    margin-left:20px;
+    padding-top:70px;
+    padding-bottom: 70px;
+}
+
+.chef-pic{
+    width: 30%;
+    margin-left: 15%
+}
+
+.feedback{
+    width: 40%;
+    float:right;
+    text-align: right;
+}
+
+.small-text{
+    color: darkgrey;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    letter-spacing: 5px;
+}
+
+.fm-text{
+    font-size:  2.3rem;
+    font-family: 'Playfair Display', serif;
+    color: #000;
+    text-transform: capitalize;
+    padding-bottom: 10px; 
+}
+
+.lorem-2{
+    text-align:right;
+    line-height: 1.7;
+    font-size: 0.8rem;
+    font-family: 'Roboto', sans-serif;
+    color:darkgrey;
+    text-transform: capitalize; 
+    padding-bottom: 40px;
+}
+
+.remark{
+    font-weight: bold;
+    padding-bottom: 45px;
+}
+
+.joe{
+    font-family: 'Playfair Display', serif;
+}
+
+.joe,.remark{
+
+    text-transform: capitalize;
+}
+
+/************************** News & Promo Section ************************/
+
+#news-bg-color{
+    width:100%;
+    padding-bottom: 50px;
+    background-color: lightgray;
+}
+
+.news-wrap{
+    padding:20px;
+    text-align: center;
+}
+
+.news-text{
+    color:darkgray;
+    text-align: center;
+    font-size: 0.8rem;
+    letter-spacing: 9px;
+    text-transform: uppercase;
+}
+
+.promo{
+    color:#000;
+    font-size: 2.5rem;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    text-transform: capitalize;
+}
+
+.promo-wrap{
+    display: grid;
+    grid-template-columns: auto auto auto;    
+    margin:0 auto;
+    width: 44%;
+    padding-bottom: 50px;
+}
+
+.pic-1,.pic-2,.pic-3{
+    height:200px;
+    
+}
+
+.event-1,.event-2,.event-3{
+    width: 200px;
+    height: 200px;
+    background-color:#fff;
+}
+
+.info-select-1,.info-select-2,.info-select-3{
+    color:#000;
+    font-family: 'Playfair Display', serif;
+    font-size: 0.9rem;
+    font-weight: bold;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.dash{
+    color: darkgrey; 
+    text-align: center;
+}
+
+.address-info-1,.address-info-2,.address-info-3{
+    color: darkgrey;
+    font-size: 0.6rem;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.upper-state{
+    font-size: 0.6rem;
+    font-weight: lighter;
+    color: darkgrey;
+    text-transform: uppercase;
+}
+
+
+/************************** Contact Section ************************/
+
+#contact-bg-gray{
+    width:100%;
+    margin-top: -25px;
+    height: 500px;
+    background-color: lightgray;
+}
+
+.contact-wrap{
+    text-align: center;
+}
+
+.contact-text{
+    color:darkgray;
+    text-align: center;
+    font-size: 0.8rem;
+    letter-spacing: 9px;
+    text-transform: uppercase;
+    padding-top: 50px;
+    margin-top: 0px;
+}
+
+.location-color{
+    width: 60%;
+    margin:0 auto;
+    background-color:#fff;
+    height: 300px;
+    position: relative;
+    top: 15%;
+    z-index: 1;
+}
+
+.location-text{
+    width: 33%;
+    margin:0 auto;
+    padding:30px;
+    font-weight: bold;
+    float: left;
+}
+
+.help-you{
+    color:#000;
+    margin-bottom: 0;
+    font-family: 'Playfair Display', serif;
+    font-size:  2.5rem;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.melbourne{
+    color:#000;
+    margin-top: 0px;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    text-transform: capitalize;
+}
+
+.ausie{
+    color: darkgray;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    text-transform: capitalize;
+}
+
+.place-locate,.call-direct{
+    font-weight: bold;
+    text-transform: capitalize;
+    color: darkgray;
+    font-size: 0.8rem;
+    line-height: 1.8;
+}
+
+.big{
+    color: darkgray;
+    text-transform: uppercase;
+}
+
+.email,.lunch,.dinner{
+    text-transform: capitalize;
+    font-size: 0.8rem; 
+}
+
+.light-font{
+    font-size: 0.8rem;
+    font-weight: lighter;
+}
+
+hr{
+    width: 25%;
+    float:left;
+    border:1px solid black;
+}
+
+.number{
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.service-2{
+    text-transform: capitalize;
+    color: darkgray;
+    font-size: 0.8rem;
+    line-height: 1.8;
+}
+
+.call{
+    width: 33%;
+    float: right;
+    padding: 30px;
+}
+
+#map{
+    height:400px;
+    width: 100%;
+}
+
+
+/************************** Footer Section ************************/
+
+#footer-color{
+    background-color: #000;
+    width: 100%;
+    height: 300px;
+    padding: 30px;
+}
+
+.last-container{
+    width: 50%;
+    margin: 0 auto;
+    text-align:center;
+    font-size: 0.8rem;
+}
+
+.logo-image{
+    color:#fff;
+    text-align:center;
+}
+
+
+/********************************************** ANCHOR NEEDS CLASS IN HTML!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+/* .footer-list,li,a{
+    display: inline-block;
+    text-transform: capitalize;
+} */
+
+.vertical-line{
+    color: darkgray;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.icon-section{
+    width:50%;
+    text-align: center;
+}
+
+
+/********************************************** ANCHOR NEEDS CLASS IN HTML!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+/* .icon-section,a{
+    color:#fff;
+    margin: 0 auto;
+    display: flex; */
+     
+}
+
+.final-text{
+    color:darkgray;
+    text-transform: capitalize;
+    font-size:0.8rem;
+    text-align: center;
+}
