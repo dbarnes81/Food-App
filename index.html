@@ -10,9 +10,8 @@
         rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
         integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
-
-
-    <title>Food App</title>
+    
+        <title>Food App</title>
 </head>
 
 <body>
@@ -21,15 +20,16 @@
     <nav class="nav-bar-bg-image">
         <div class="container">
             <ul class="links">
-                <a href="#" class="logo">logo</a>
-                <li><a href="#">home</a></li>
-                <li><a href="#">pages</a></li>
-                <li><a href="#">portfolio</a></li>
-                <li><a href="#">elements</a></li>
-                <li><a href="#">shop</a></li>
-                <li><a href="#" class="reservation">reservation
+                <a name="home" class="logo">logo</a>
+                <li><a href="#home">home</a></li>
+                <li><a href="#about">about</a></li>
+                <li><a href="#menu">menu</a></li>
+                <li><a href="#reviews">reviews</a></li>
+                <li><a href="#news">news</a></li>
+                <li><a href="#contact" class="reservation">contact us
                         <i class="fas fa-greater-than"></i></li>
             </ul>
+                
             <div class="title">
                 <p>welcome</p>
                 <h1>prime beef steak<br>restaurant</h1>
@@ -44,7 +44,7 @@
 
 
     <!------------------------------ STORY-SECTION --------------------------------->
-
+<a name="about"></a>
     <div id="story-bg-white">
         <div class="grid-wrap">
             <div class="first-grid">
@@ -66,7 +66,7 @@
 
 
     <!------------------------------ SPECIAL-MENU-SECTION --------------------------------->
-
+<a name="menu"></a>
     <div id="menu-grey-bg">
         <div class="menu-wrap">
             <h6 class="mini-text">special menu</h6>
@@ -74,7 +74,7 @@
 
 
             <!------------------------------ GRID-SPECIAL-MENU-SECTION --------------------------------->
-
+        
             <div id="grid-container">
                 <div class="white-wrap-1">
                     <div class="food-info-1">
@@ -122,7 +122,7 @@
 
 
     <!------------------------------ REVIEW-IMAGE-SECTION --------------------------------->
-
+    <a name="reviews"></a>
     <div id="review-color">
         <div class="review-container">
 
@@ -142,7 +142,7 @@
 
 
     <!------------------------------ OUR-NEWS-SECTION --------------------------------->
-
+<a name="news"></a>
     <div id="news-bg-color">
         <div class="news-wrap">
             <h6 class="news-text">our news</h6>
@@ -196,7 +196,7 @@
 
 
     <!------------------------------ CONTACT-SECTION --------------------------------->
-
+<a name="contact"></a>
     <div id="contact-bg-gray">
         <div class="contact-wrap">
             <h6 class="contact-text">contact us</h6>
@@ -286,5 +286,6 @@
         <script async defer
             src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCDhEsdhidC5C5vSVCwCN4I79yrR9BK5MI&callback=initMap"
             type="text/javascript"></script>
+            <script src="script.js"></script>
 </body>
 </html>

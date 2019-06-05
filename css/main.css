@@ -591,34 +591,35 @@ hr{
 
 .logo-image{
     color:#fff;
+    padding-top: 50px;
     text-align:center;
 }
 
-
-/********************************************** ANCHOR NEEDS CLASS IN HTML!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
-
-/* .footer-list,li,a{
+.footer-list,li{
     display: inline-block;
+    padding-top:15px;
+    padding-bottom: 30px;
     text-transform: capitalize;
-} */
+}
 
 .vertical-line{
     color: darkgray;
-    margin-right: 15px;
-    margin-left: 15px;
+    margin-right: 20px;
+    margin-left: 20px;
 }
 
 .icon-section{
     width:50%;
+    padding-bottom: 20px;
+    margin: 0 auto;
     text-align: center;
 }
 
-
-/********************************************** ANCHOR NEEDS CLASS IN HTML!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
-/* .icon-section,a{
+.symbol{
     color:#fff;
-    margin: 0 auto;
-    display: flex; */
+    margin-right: 15px;
+    margin-left: 15px;
+    display: inline-block;
      
 }
 
