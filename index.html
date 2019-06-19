@@ -6,11 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" type="text/css" href="css/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900|Roboto:400,500,700&display=swap"
         rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
         integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
-    
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+
         <title>Food App</title>
 </head>
 
@@ -19,8 +21,8 @@
     <!------------------------------ NAV-BAR-BG-SECTION --------------------------------->
     <nav class="nav-bar-bg-image">
         <div class="container">
-            <ul class="links">
-                <a name="home" class="logo">logo</a>
+            <ul class="links animated fadeInUp delay-2s">
+                <a href="#home" class="logo">logo</a>
                 <li><a href="#home">home</a></li>
                 <li><a href="#about">about</a></li>
                 <li><a href="#menu">menu</a></li>
@@ -30,11 +32,12 @@
                         <i class="fas fa-greater-than"></i></li>
             </ul>
                 
-            <div class="title">
+            <div class="title animated fadeInLeft delay-1s">
                 <p>welcome</p>
                 <h1>prime beef steak<br>restaurant</h1>
             </div>
-            <div class="bottom-info">
+            <div class="bottom-info animated fadeInUp
+            delay-2s">
                 <p class="book">book a table directly</p>
                 <span class="phone">(555) 555 5555</span>
                 <p class="lg-text">opening hours mon - fri: 09:00 - 21:00 / weekend: 09:00 - 22:00</p>
@@ -47,7 +50,8 @@
 <a name="about"></a>
     <div id="story-bg-white">
         <div class="grid-wrap">
-            <div class="first-grid">
+            <div class="first-grid animated fadeInLeft
+            delay-2s">
                 <p class="upper-para">our story</p>
                 <h2 class="md-text">cooking is the art of adjustment</h2>
                 <p class="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
@@ -57,7 +61,8 @@
                 <button class="reserv">reservation</button>
             </div>
 
-            <div class="second-grid">
+            <div class="second-grid animated fadeInRight
+            delay-2s">
                 <img class="grid-pic"
                     src="https://images.unsplash.com/photo-1546563730-63db5650a965?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=375&q=80">
             </div>
@@ -76,7 +81,8 @@
             <!------------------------------ GRID-SPECIAL-MENU-SECTION --------------------------------->
         
             <div id="grid-container">
-                <div class="white-wrap-1">
+                <div class="white-wrap-1 animated fadeInLeft
+                delay-2s">
                     <div class="food-info-1">
                         <img class="dish-1" src="./img/food-dish-1.jpg">
                         <p class="price-1">$25</p>
@@ -84,7 +90,8 @@
                         <p class="sm-detail-1">fried eggs,fried bacon,toast, fresh tomato salad cup of coffee or tea</p>
                     </div>
                 </div>
-                <div class="white-wrap-2">
+                <div class="white-wrap-2 animated fadeInUp
+                delay-1s">
                     <div class="food-info-2">
                         <img class="dish-2" src="./img/food-dish-2.jpg">
                         <p class="price-2">$42</p>
@@ -93,7 +100,8 @@
                         </p>
                     </div>
                 </div>
-                <div class="white-wrap-3">
+                <div class="white-wrap-3 animated fadeInRight
+                delay-2s">
                     <div class="food-info-3">
                         <img class="dish-3" src="./img/food-dish-3.jpg">
                         <p class="price-3">$30</p>
@@ -126,9 +134,11 @@
     <div id="review-color">
         <div class="review-container">
 
-            <img class="chef-pic" src="./img/cook-image.png">
+            <img class="chef-pic animated fadeInLeft
+            delay-2s" src="./img/cook-image.png">
 
-            <div class="feedback">
+            <div class="feedback animated fadeInRight
+            delay-2s">
                 <p class="small-text">review</p>
                 <h2 class="fm-text">the food's masters <br>say about us</h2>
                 <p class="remark">"best restaurant that i used to experience!"</p>
@@ -155,10 +165,12 @@
 
 
         <div class="promo-wrap">
-            <div class="pic-1">
+            <div class="pic-1 animated fadeInLeft
+            delay-2s">
                 <img src="./img/promo-pic-1.jpg">
             </div>
-            <div class="event-1">
+            <div class="event-1 animated fadeInDown
+            delay-1s">
                 <h2 class="info-select-1">beef sauteed<br>onions - let's enjoy!</h2>
                 <p class="dash"> ----------- </p>
                 <p class="address-info-1">123 broadway st <span class="upper-state">ny</span>, united states<br>
@@ -167,12 +179,14 @@
             </div>
 
 
-            <div class="pic-2">
+            <div class="pic-2 animated fadeInRight
+            delay-2s">
                 <img src="./img/promo-pic-2.jpg">
             </div>
 
 
-            <div class="event-2">
+            <div class="event-2 animated fadeInLeft
+            delay-2s">
                 <h2 class="info-select-2">become a super chef so<br>easy with us</h2>
                 <p class="dash"> ----------- </p>
                 <p class="address-info-2">1600 allen st <span class="upper-state">ny</span>, united states<br>
@@ -181,10 +195,12 @@
             </div>
 
 
-            <div class="pic-3">
+            <div class="pic-3 animated fadeInUp
+            delay-2s">
                 <img src="./img/promo-pic-3.jpg">
             </div>
-            <div class="event-3">
+            <div class="event-3 animated fadeInLeft
+            delay-2s">
                 <h2 class="info-select-3">art photography in<br>foody</h2>
                 <p class="dash"> ----------- </p>
                 <p class="address-info-3">580 brooklyn st <span class="upper-state">ny</span>, united states<br>
@@ -203,7 +219,8 @@
             <h2 class="help-you">we're always here to help you</h2>
         </div>
 
-        <div class="location-color">
+        <div class="location-color animated fadeInUp
+        delay-2s">
             <div class="location-text">
                 <h4 class="melbourne">melbourne, <span class="ausie">australia</span></h4>
                 <p class="place-locate">269 king str, 05th floor utral hosue building,<br>
@@ -257,8 +274,9 @@
         <!------------------------------ FOOTER-SECTION --------------------------------->
 
         <div id="footer-color">
-            <div class="last-container">
-                <div class="logo-image">logo</div>
+            <div class="last-container animated fadeInLeft
+            delay-2s">
+                <a href="#home" class="logo">logo</a>
                 <ul class="footer-list">
                     <li><a href="#">reservations</a></li>
                     <span class="vertical-line"> | </span>
@@ -271,13 +289,15 @@
             </div>
 
 
-            <div class="icon-section">
+            <div class="icon-section animated fadeInRight
+            delay-2s">
                 <a class="symbol" href="#"><i class="fab fa-twitter"></i></a>
                 <a class="symbol" href="#"><i class="fab fa-facebook-f"></i></a>
                 <a class="symbol" href="#"><i class="fab fa-google-plus-g"></i></a>
                 <a class="symbol" href="#"><i class="fab fa-instagram"></i></a>
             </div>
-            <div class="final-text">
+            <div class="final-text animated fadeInUp
+            delay-2s">
                 <p class="ai">&copy ai restaurant.</p>
                 <p class="rights">design by dionte barnes.</p>
             </div>
@@ -286,6 +306,20 @@
         <script async defer
             src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCDhEsdhidC5C5vSVCwCN4I79yrR9BK5MI&callback=initMap"
             type="text/javascript"></script>
-            <script src="script.js"></script>
+
+    <!------------------------------- SMOOTH SCROLL ------------------------------->
+
+            <script src="js/smooth-scroll.js"></script>
+            <script>
+                var scroll = new SmoothScroll('a[href*="#"]');
+            </script>
+
+    <!------------------------------- ANIMATION ------------------------------->
+
+        <script src="js/wow.min.js"></script>
+        <script>
+        new WOW().init();
+        </script>
+            
 </body>
 </html>
