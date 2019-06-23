@@ -521,13 +521,13 @@ i{
 .place-locate,.call-direct{
     font-weight: bold;
     text-transform: capitalize;
-    color: darkgray;
+    color: #000;
     font-size: 0.8rem;
     line-height: 1.8;
 }
 
 .big{
-    color: darkgray;
+    color: #000;
     text-transform: uppercase;
 }
 
@@ -629,3 +629,87 @@ hr{
     font-size:0.8rem;
     text-align: center;
 }
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .links>li {
+        padding:5px;
+    }
+
+    .title>h1, .first-grid, .md-text, .delicious-flavour, .quote-text,
+    .fm-text,.promo,.help-you,.melbourne {
+        font-size:1.5rem;
+    }
+
+    .title>p,.bottom-info>p, .links>li, .logo, .phone, .upper-para,
+    .lorem,span, i, .mini-text,.full-view-link, .al-roker, .small-text,
+    .remark, .lorem-2, .news-text,.contact-text,.place-locate, .call-direct,
+    .service-2,.light-font, .footer-list, li, .final-text{
+        font-size: 0.1rem
+    }
+
+    .bottom-info {
+        text-align: right;
+        position: relative;
+        top: 135px;
+        right: 14%;
+}
+
+    .reserv {
+        font-size: 0.1rem;
+        padding: 5px 5px;
+    }
+
+    .menu-wrap {
+        padding-top: 0;
+    }
+
+    .grid-pic {
+        display:none;
+    }
+
+    #story-bg-white {
+        height: 450px;
+        padding-bottom: 0;
+    }
+
+    #grid-container {
+        position: relative;
+        /* top: -50px; */
+        left: 88px;
+        display:block;
+
+    }
+
+    .promo-wrap {
+        margin: 0 33%;
+        grid-template-columns: none;
+    }
+
+    .chef-table{
+        width: 700px;
+    }
+
+    .contact-text {
+        padding-top:0;
+    }
+
+    .number {
+        font-size: 1rem;
+    }
+
+    .call {
+        padding: 0;
+    }
+
+    .location-color {
+        position: relative;
+        top: 7%;
+    }
+
+    .footer-list, ul {
+        display: inline-block;
+    }
+
+     
