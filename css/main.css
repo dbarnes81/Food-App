@@ -23,9 +23,13 @@ html,body{
 }
 
 .logo{
-    width: 5%;
-    color: white;
+    width: 4%;
     background-color: none;
+}
+
+.logo:hover{
+    color:#fff;
+    transition-duration: 2s;
 }
 
 .links{
@@ -63,6 +67,7 @@ a{
 }
 
 .title>h1{
+    color: #fff;
     margin: 0;
     line-height:1;
     text-transform:capitalize;
@@ -71,6 +76,7 @@ a{
 }
 
 .title>p{
+    color: #fff;
     padding-bottom: 21px;
     letter-spacing: 10px;
     text-transform: uppercase;
@@ -119,7 +125,7 @@ a{
     background-color: white;
 }
 
-.first-grid{
+.first-grid {
     color:#000;
     float:left;
     width: 375px;
@@ -127,7 +133,7 @@ a{
     margin-left: 50px;
 }
 
-.upper-para{
+.upper-para {
     font-family: 'Roboto', sans-serif;
     color: darkgrey;
     text-transform: uppercase;
@@ -221,18 +227,28 @@ i{
     align-content: flex-start;
 }
 
-.white-wrap-1,.white-wrap-2,.white-wrap-3{
+ .fas {
+    height:0;
+    font-size: 1.5rem!important;
+    color:#000;
+}
+
+.fas:hover {
+    cursor: pointer;
+}
+
+.white-wrap{
     margin: 25px;
     padding: 30px;
     width: 30%;
     background-color: white;
 }
 
-.food-info-1,.food-info-2,.food-info-3{
+.food-info{
     width: 100%;
 }
 
-.dish-1,.dish-2,.dish-3{
+.dish{
     width: 100%;
 }
 
@@ -274,6 +290,11 @@ i{
     letter-spacing: 5px;
 }
 
+#arrow {
+    position: relative;
+    top: 215px;
+}
+
 
 /************************** Image Quote Section ************************/
 
@@ -284,7 +305,7 @@ i{
 }
 
 .chef-table{
-    width: 1340px;
+    width: 100%;
     height: 550px;
 }
 
@@ -711,7 +732,7 @@ hr{
     .title>p,.bottom-info>p, .links>li, .logo, .phone, .upper-para,
     .lorem,span, i, .mini-text,.full-view-link, .al-roker, .small-text,
     .remark, .lorem-2, .news-text,.contact-text,.place-locate, .call-direct,
-    .service-2,.light-font, .footer-list, li, .final-text{
+    .service-2,.light-font, .footer-list, li, .final-text {
         font-size: 0.1rem
     }
 

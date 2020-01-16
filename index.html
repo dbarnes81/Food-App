@@ -6,12 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" type="text/css" href="css/main.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css"/>
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900|Roboto:400,500,700&display=swap"
         rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
         integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
-        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+        <!-- <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script> -->
 
         <title>Food App</title>
 </head>
@@ -21,23 +21,21 @@
     <!------------------------------ NAV-BAR-BG-SECTION --------------------------------->
     <nav class="nav-bar-bg-image">
         <div class="container">
-            <ul class="links animated fadeInUp delay-2s">
+            <ul class="links" data-aos="fade-up">
                 <a href="#home"><img src="img/logo-image.png"class="logo"></a>
                 <li><a href="#home">home</a></li>
                 <li><a href="#about">about</a></li>
                 <li><a href="#menu">menu</a></li>
                 <li><a href="#reviews">reviews</a></li>
                 <li><a href="#news">news</a></li>
-                <li><a href="#contact" class="reservation">contact us
-                        <i class="fas fa-greater-than"></i></li>
+                <li><a href="#contact" class="reservation">contact us</a></li>
             </ul>
                 
-            <div class="title animated fadeInLeft delay-1s">
+            <div class="title" data-aos="fade-right">
                 <p>welcome</p>
                 <h1>prime beef steak<br>restaurant</h1>
             </div>
-            <div class="bottom-info animated fadeInUp
-            delay-2s">
+            <div class="bottom-info" data-aos="fade-up">
                 <p class="book">book a table directly</p>
                 <span class="phone">(555) 555 5555</span>
                 <p class="lg-text">opening hours mon - fri: 09:00 - 21:00 / weekend: 09:00 - 22:00</p>
@@ -50,22 +48,20 @@
 <a name="about"></a>
     <div id="story-bg-white">
         <div class="grid-wrap">
-            <div class="first-grid animated fadeInLeft
-            delay-2s">
+            <div class="first-grid">
                 <p class="upper-para">our story</p>
                 <h2 class="md-text">cooking is the art of adjustment</h2>
                 <p class="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
                     incididunt ut labore et dolore magna aliqua. Porttitor massa id neque aliquam vestibulum morbi
                     blandit. Duis convallis convallis tellus id interdum velit laoreet id.</p>
                 <p><span>thomas eggsy</span><i> - master chef at al restaurant</i></p>
-                <button class="reserv">reservation</button>
+                <button class="reserv" onclick="window.location.href='reservation.html'">reservation</button>
             </div>
             <img class="grid-pic"
                     src="https://images.unsplash.com/photo-1546563730-63db5650a965?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=375&q=80">
-            <!-- <div class="second-grid animated fadeInRight
-            delay-2s">
+            <div class="second-grid">
                 
-            </div> -->
+            </div>
         </div>
     </div>
 
@@ -81,39 +77,78 @@
             <!------------------------------ GRID-SPECIAL-MENU-SECTION --------------------------------->
         
             <div id="grid-container">
-                <div class="white-wrap-1 animated fadeInLeft
-                delay-2s">
-                    <div class="food-info-1">
-                        <img class="dish-1" src="./img/food-dish-1.jpg">
+                <div id="arrow" class="arrowLeft">
+                    <i class="fas fa-less-than"></i>
+                </div>
+                <div class="white-wrap">
+                    <div class="food-info">
+                        <img class="dish" src="./img/food-dish-1.jpg">
                         <p class="price-1">$25</p>
                         <p class="main-detail-1">super bbq grill no smoke</p>
-                        <p class="sm-detail-1">fried eggs,fried bacon,toast, fresh tomato salad cup of coffee or tea</p>
-                    </div>
-                </div>
-                <div class="white-wrap-2 animated fadeInUp
-                delay-1s">
-                    <div class="food-info-2">
-                        <img class="dish-2" src="./img/food-dish-2.jpg">
-                        <p class="price-2">$42</p>
-                        <p class="main-detail-2">queen of autumn</p>
-                        <p class="sm-detail-2">warm chicken wings, portabello mushrooms, fresh mozzarella, coffee or tea
+                        <p class="sm-detail-1">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                            Fugit quia minus fugiat amet, quis voluptates adipisci a molestiae assumenda velit eaque incidunt molestias.
                         </p>
                     </div>
                 </div>
-                <div class="white-wrap-3 animated fadeInRight
-                delay-2s">
-                    <div class="food-info-3">
-                        <img class="dish-3" src="./img/food-dish-3.jpg">
-                        <p class="price-3">$30</p>
-                        <p class="main-detail-3">royal liver fried</p>
-                        <p class="sm-detail-3">grilled beat steak, roasted red potatoes with rosemary, mashrooms sause
-                            vine</p>
+                <div class="white-wrap">
+                    <div class="food-info">
+                        <img class="dish" src="./img/food-dish-2.jpg">
+                        <p class="price-2">$42</p>
+                        <p class="main-detail-2">queen of autumn</p>
+                        <p class="sm-detail-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                                Fugit quia minus fugiat amet, quis voluptates adipisci a molestiae assumenda velit eaque incidunt molestias.
+                        </p>
                     </div>
                 </div>
-            </div>
+                <div class="white-wrap">
+                    <div class="food-info">
+                        <img class="dish" src="./img/food-dish-3.jpg">
+                        <p class="price-3">$30</p>
+                        <p class="main-detail-3">royal liver fried</p>
+                        <p class="sm-detail-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                                Fugit quia minus fugiat amet, quis voluptates adipisci a molestiae assumenda velit eaque incidunt molestias.
+                            </p>
+                    </div>
+                </div>
+
+                <div class="white-wrap">
+                    <div class="food-info">
+                        <img class="dish" src="./img/food-dish-4.jpeg">
+                        <p class="price-1">$25</p>
+                        <p class="main-detail-1">super bbq grill no smoke</p>
+                        <p class="sm-detail-1">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                            Fugit quia minus fugiat amet, quis voluptates adipisci a molestiae assumenda velit eaque incidunt molestias.
+                        </p>
+                    </div>
+                </div>
+                <div class="white-wrap">
+                    <div class="food-info">
+                        <img class="dish" src="./img/food-dish-5.jpeg">
+                        <p class="price-2">$42</p>
+                        <p class="main-detail-2">queen of autumn</p>
+                        <p class="sm-detail-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                                Fugit quia minus fugiat amet, quis voluptates adipisci a molestiae assumenda velit eaque incidunt molestias.
+                        </p>
+                    </div>
+                </div>
+                <div class="white-wrap">
+                    <div class="food-info">
+                        <img class="dish" src="./img/food-dish-6.jpeg">
+                        <p class="price-3">$30</p>
+                        <p class="main-detail-3">royal liver fried</p>
+                        <p class="sm-detail-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                                Fugit quia minus fugiat amet, quis voluptates adipisci a molestiae assumenda velit eaque incidunt molestias.
+                            </p>
+                    </div>
+                </div>
+                <div id="arrow" class="arrowRight">
+                    <i class="fas fa-greater-than"></i>
+                </div>
+             </div>
             <div class="link">
                 <a class="full-view-link" href="#">view full menu</a>
             </div>
+
         </div>
     </div>
 
@@ -123,7 +158,7 @@
         <img class="chef-table" src="./img/cook-food-board.jpg">
         <div class="quote-wrap">
             <h1 class="quote-text">"<br>
-                i love cooking for myself and cooking<br>for my family</h1>
+                i love cooking for myself and cooking<br>for my family "</h1>
             <p class="al-roker">- al roker -</p>
         </div>
     </div>
@@ -277,11 +312,11 @@
             <div class="last-container animated fadeInLeft
             delay-2s">
                 <ul class="footer-list">
-                    <li><a href="#">reservations</a></li>
+                    <li><a href="reservation.html">reservations</a></li>
                     <span class="vertical-line"> | </span>
                     <li><a href="#">functions</a></li>
                     <span class="vertical-line"> | </span>
-                    <li><a href="#">contact</a></li>
+                    <li><a href="#contact">contact</a></li>
                     <span class="vertical-line"> | </span>
                     <li><a href="#">reviews & media</a></li>
                 </ul>
@@ -305,20 +340,17 @@
         <script async defer
             src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCDhEsdhidC5C5vSVCwCN4I79yrR9BK5MI&callback=initMap"
             type="text/javascript"></script>
-
-    <!------------------------------- SMOOTH SCROLL ------------------------------->
-
-            <script src="js/smooth-scroll.js"></script>
-            <script>
-                var scroll = new SmoothScroll('a[href*="#"]');
-            </script>
+            
 
     <!------------------------------- ANIMATION ------------------------------->
 
-        <script src="js/wow.min.js"></script>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
         <script>
-        new WOW().init();
-        </script>
-            
+            AOS.init({
+            //   offset: 120,
+                duration: 1000
+            });
+        </script> 
+        <script src="js/food.js"></script>    
 </body>
 </html>
